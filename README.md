@@ -224,20 +224,6 @@ classDiagram
 
 ---
 
-## 📌 Commit History Suggestions
-
-* `feat: project scaffolding + folders`
-* `feat: symbol ScriptableObjects + game config`
-* `feat: RNG service + wallet`
-* `feat: 1-row reel view spin animation`
-* `feat: slot machine controller + win eval`
-* `feat: extended 3x3 reels + paylines`
-* `feat: wild + scatter + free spins`
-* `chore: webgl build`
-* `docs: add README`
-
----
-
 ## 📚 References
 
 * [Unity ScriptableObjects](https://docs.unity3d.com/ScriptReference/ScriptableObject.html)
